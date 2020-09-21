@@ -2,7 +2,7 @@ package Javapractice;
 
 public class HelloJava {
    public static void main(String[] args) {
-	System.out.println("Hello Akhi");
+	System.out.println("Hello Akhil");
 	
 }
 }
